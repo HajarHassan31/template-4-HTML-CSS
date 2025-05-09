@@ -221,7 +221,7 @@ margin-bottom: -10px;
     background-color: var(--blue-alt-color);
     cursor: pointer;
  }
-.box i {
+.target .details i {
     position: absolute;
     width: 65px;
     top: 25%;
