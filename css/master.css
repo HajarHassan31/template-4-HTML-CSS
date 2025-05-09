@@ -221,7 +221,7 @@ margin-bottom: -10px;
     background-color: var(--blue-alt-color);
     cursor: pointer;
  }
-.target .details i {
+.target .icon i {
     position: absolute;
     width: 65px;
     top: 50%;
@@ -235,11 +235,7 @@ margin-bottom: -10px;
  .target .details{
     flex: 1;
  }
-.target .blue .icon .details i{
-    position:absloute;
-    top: 35%;
-    left:25%;
-}
+
  .target  .blue .details .progress{
     height: 2px;
     background-color: rgb(0 117 255 / 20%);
