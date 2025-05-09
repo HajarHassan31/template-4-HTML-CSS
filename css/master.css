@@ -296,6 +296,12 @@ margin-bottom: -10px;
     background-color: rgb(34 197 94 / 20%);
      position:relative;
  }
+ .box i{
+   position: absolute;
+   width: 65px;
+   top: 25%;
+   left: 25%;
+ }
  .target  .green .details .progress{
     height: 2px;
     background-color: rgb(34 197 94 / 20%);
