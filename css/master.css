@@ -225,6 +225,12 @@ margin-bottom: -10px;
     background-color: rgb(0 117 255 / 20%);
      position: relative;
  }
+ .box i{
+   position: absolute;
+   width: 65px;
+   top: 50%;
+   left: 50%;
+ }
  .target .details{
     flex: 1;
  }
@@ -273,6 +279,12 @@ margin-bottom: -10px;
  .target  .orange .icon{
     background-color: rgb(245 158 11 / 20%);
      position: relative;
+ }
+ .box i{
+   position: absolute;
+   width: 65px;
+   top: 25%;
+   left: 25%;
  }
  .target  .orange .details .progress{
     height: 2px;
