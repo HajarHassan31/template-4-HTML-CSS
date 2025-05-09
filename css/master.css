@@ -266,6 +266,7 @@ margin-bottom: -10px;
  }
  .target  .orange .icon{
     background-color: rgb(245 158 11 / 20%);
+     position: relative;
  }
  .target  .orange .details .progress{
     height: 2px;
