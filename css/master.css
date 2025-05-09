@@ -221,12 +221,7 @@ margin-bottom: -10px;
     background-color: var(--blue-alt-color);
     cursor: pointer;
  }
-.target .icon i {
-    position: absolute;
-    width: 65px;
-    top: 50%;
-    left: 50%;
-}
+
  .target  .blue .icon{
     background-color: rgb(0 117 255 / 20%);
      position: relative;
